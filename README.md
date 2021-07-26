@@ -23,7 +23,7 @@ Il gameplay del gioco è molto semplice; le azioni principali che l’utente pu�
 Oltre a muoversi tra le stanze della casa specificando le direzioni cardinali, l’utente può guardare stanze e oggetti, prendere oggetti, interagire con oggetti, premere alcuni oggetti e aprire o chiudere porte o oggetti.
 Queste interazioni con gli oggetti presenti nella casa sono essenziali per la risoluzione degli indovinelli. 
 
-![Interfaccia](./img/Interfaccia.PNG)
+![Interfaccia](https://raw.githubusercontent.com/EnricoP-02/Hypnos/main/img/Interfaccia.png)
 
 ## Architettura del sistema
 
