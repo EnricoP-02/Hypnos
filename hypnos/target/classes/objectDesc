@@ -1,0 +1,191 @@
+1#Letto#È il letto che ho da 10 anni, ormai la notte dormo con i piedi fuori dalla coperta#False#False#False#False#False
+2#Comodino#Questo comodino lo comprammo con il letto, il terzo cassetto si staccò, per fortuna gli altri due sono ancora intatti#True#False#False#False#False
+3#Lampada#Dannazione...la lampadina si sta per scaricare#False#False#False#False#False
+4#Primo cassetto#Contiene un sacco di scartoffie e vecchie foto, dovrei decisamente buttarle#True#False#False#False#False
+5#Secondo cassetto#Questo cassetto contiene di tutto e di più, come cavi di ricarca, un paio di controller e tutti i telefoni che ho mai avuto, a partire dal primo, il sony xperia X10#True#False#False#False#False
+6#Scrivania#Quanti pomeriggi passati sui libri...#False#False#False#False#False
+7#Sedia#Questa maledetta sedia la cambierò prima o poi, a costo di smontarla e buttarla nell'indifferenziata#False#False#False#False#False
+8#Armadio#Qualcuno ha lasciato l'armadio aperto, strano...#True#False#False#True#False
+9#Quadro di Micheal#Questo quadro ci fu regalato dal nostro amico Micheal, pecccato che non ne fa più#False#False#False#False#False
+10#Quadro Invernale#Che bello questo paesaggio coperto dalla neve... ora che ci penso l'anno scorso non nevicò, peccato#False#False#False#False#False
+11#Mensola#Su questa mensola c'è il vecchio telefono di casa e la rubrica che usavamo anni fa... che nostalgia#False#False#False#False#False
+12#Telefono#Strano... se faccio un qualsiasi numero sul telefono si sente solo statica#False#False#False#False#False
+13#Rubrica#Ormai non si usano più le rubriche cartacee#False#False#False#False#False
+14#Televisione#La tv mostra solo statica...le abbiamo pagate le bollette?#False#False#False#False#False
+15#Tavolo#Di solito qualcuno si mette a fare le parole crociate qui, forse sono usciti tutti#False#False#False#False#False
+16#Mobile#Ci sono quattro cassetti, e sono tutti usati per conservare cose che non mi interessano#True#False#False#False#False
+17#Primo cassetto#Tovaglie... wow#True#False#False#False#False
+18#Secondo cassetto#Coperte#True#False#False#False#False
+19#Terzo cassetto#Carte e ricevute di bollette e tasse... sempre buono conservarle#True#False#False#False#False
+20#Quarto cassetto#Altre tovaglie, evviva#True#False#False#False#False
+21#Zerbino#Perluscio adora farsi le unghie qui#False#False#False#False#False
+22#Specchio#Quanto sono bello...#False#False#False#False#False
+23#Portachiavi a muro#Appeso al muro tempo fa... ora le chiavi della casa sono molto più organizzate, anche se adesso ne è appesa solo una#False#False#False#False#False
+24#Chiave pianoterra secondo piano#La chiave per il secondo piano e il pianoterra#False#True#False#False#False
+25#Primo paio di scarpe#Le mie amate adidas#False#False#False#False#False
+26#Secondo paio di scarpe#Sono uguali alle mie adidas, ma sono più rovinate... qualcuno è venuto a farci visita evidentemente#False#False#False#False#False
+27#Scrivania#La sua scrivania è sempre organizzata e pulita, anche se tra poco le carte ricopriranno il suo computer e verrà a chiedere a me che fine ha fatto#False#False#False#False#False
+28#Computer#È spento... peccato, volevo farmi una partita a prato fiorito#False#False#False#False#False
+29#Sedia#Preferirei di non sedermi su queste maledette sedie#False#False#False#False#False
+30#Divano#Anche se è comodissimo, non ho voglia di sedermi e andarmene al sonno in un paio di secondi#False#False#False#False#False
+31#WC#Non ho stimoli per il momento#False#False#False#False#False
+32#Lavandino#Mi sono già lavato le mani#False#False#False#False#False
+33#Bidet#Non penso che sia il caso di utilizzarlo adesso#False#False#False#False#False
+34#Vasca#Preferisco farmi una doccia, ma adesso non ho voglia#False#False#False#False#False
+35#Specchio con scompartimento#Mi da fastidio vedermi allo specchio, menomale che si può aprire#True#False#False#False#False
+36#Scompartimento medicinali#Qui ci sono i miei antidepressivi, oggi li ho già presi#False#False#False#False#False
+37#Porta scale secondo piano e pianoterra#Questa porta dovrebbe condurre alle scale per il secondo piano e il pianoterra#False#False#False#False#False
+38#Porta pianoterra#Questa porta dovrebbe condurre al pianoterra#False#False#False#False#False
+39#Letto#Il mio letto... ma non stava già al primo piano?#False#False#False#False#False
+40#Comodino#Ora il mio comodino non ha cassetti, è vuoto#False#False#False#False#False
+41#Scrivania#Sopra c'è solo il mio portatile#False#False#False#False#False
+42#Sedia#La maledetta sedia però è la stessa#False#False#False#False#False
+43#Computer portatile#Ho lasciato aperto Metal Gear Solid... dovrei salvare la partita e spegnere il pc, preferirei evitare che la batteria si rompa#False#False#False#False#False
+44#Portachiavi a muro#Ora sul portachiavi c'è solo una chiave incisa#False#False#False#False#False
+45#Chiave incisa#Su questa chiave vi è inciso il numero 2#False#True#False#False#False
+46#Zerbino#Ora lo zerbino è consumato, ma non può essere stato Peluscio, lui non è in grado di ridurlo in questo stato#False#False#False#False#False
+47#Paio di scarpe#Ora ci sono solo le mie adidas, forse l'ospite se n'è andato#False#False#False#False#False
+48#Scrivania#Sono sparite tutte le carte, sopra c'è solo il suo computer#False#False#False#False#False
+49#Cassaforte#Non ricordo che avessimo messo una cassaforte in casa, richiede un codice... chissà cosa sta al suo interno#False#False#False#False#False
+50#Chiave rossa#Una delle 3 chiavi richieste dalla porta per il pianoterra#False#True#False#False#False
+51#Sedia#Ora la sedia è rotta#False#False#False#False#False
+52#Computer#È ancora spento#False#False#False#False#False
+53#Piccola libreria#È una libreria, ma non contiene libri#False#False#False#False#False
+54#Piano cottura#Sopra il piano cottura c'è un Martello e un Coltello rotto, vi è anche inciso sulla superficie il numero 7#False#False#False#False#False
+55#Martello#È un martello, chissà a cosa serve#False#True#False#False#False
+56#Coltello rotto#È rotto, dubito si rivelerà utile#False#True#False#False#False
+57#Frigorifero#È aperto e sembrerebbe essere vuoto...#False#False#False#True#False
+58#Freezer#Era incluso con l'acquisto del frigorifero, che affare!#True#False#False#False#False
+59#Moblie#Ci sono solo 2 cassetti in questo mobile, giurerei di ricordarne di più#True#False#False#False#False
+60#Primo Cassetto#È vuoto, utile...#True#False#False#False#False
+61#Secondo Cassetto#Sembra esserci una nota al suo interno#True#False#False#False#False
+62#Nota#Su questa nota c'è scritto il numero 7#False#False#False#False#False
+63#Lavastoviglie#È chiusa ed è spenta#True#False#False#False#False
+64#Forno#È acceso...ma non sembra esserci nulla dentro#True#False#False#False#False
+65#Tavolo da pranzo#È il tavolo al quale pranziamo e ceniamo ogni giorno, sopra c'è solo un contenitore ed una tazza di tè#False#False#False#False#False
+66#Piatto#Il piatto contiene un contenitore di materiale trasparente nel quale riesco ad intravedere una chiave di colore blu#False#False#False#False#False
+67#Contenitore#Questo contenitore di materiale trasparente, sembra resina, contiene una chiave blu#False#True#False#False#False
+68#Chiave blu#Una delle 3 chiavi richieste dalla porta per il pianoterra#False#False#False#False#False
+69#Sedia#Preferirei sedermi durante la digestione#False#False#False#False#False
+70#Divano#Preferirei sedermi durante la digestione#False#False#False#False#False
+71#Televisione#Prima mostrava solo statica, ora mostra a intermittenza il numero 4#False#False#False#False#False
+72#Mobile rovinato#È un mobile molto antico con 6 compartimenti, il tempo lo ha danneggiato, ma è ancora in piedi#True#False#False#False#False
+73#Primo compartimento#Ci sono solo carte invecchiate, purtroppo illeggibili#True#False#False#False#False
+74#Secondo compartimento#Il cassetto è vuoto#True#False#False#False#False
+75#Terzo compartimento#C'è solo polvere#True#False#False#False#False
+76#Quarto compartimento#Ci sono solo carte invecchiate, purtroppo illeggibili#True#False#False#False#False
+77#Quinto compartimento#Ci sono carte invecchiate, ma una nota è leggibile#True#False#False#False#False
+78#Sesto compartimento#C'è solo polvere#True#False#False#False#False
+81#Nota#Sulla nota c'è scritto: '********** la vita dell'uomo è un corridoio pieno di porte ********** aprire le porte ********** e chiudere quelle sbagliate '-*********#False#False#False#False#False
+82#Mobile in legno con anta di vetro rotta#È un vecchio mobile distrutto completamente dal passare del tempo, il legno marcio e la vetrata in frantumi#False#False#False#False#False
+83#Lampadario#Alcune lampadine del lampadario sono accese, come la prima, la terza e la quinta; le altre, come la seconda, la quarta e la sesta sono spente#False#False#False#False#False
+84#Foglio impolverato#L'unica cosa leggibile sul foglio è il numero 9#False#False#False#False#False
+85#Foglio bruciacchiato#Sul foglio c'è scritto: 'Ricetta per la ********** mettere il preparato nel forno ********** e quindi metterlo nel freezer **********'#False#False#False#False#False
+86#Foglio corroso#Non riesco a leggere nulla, è troppo danneggiato#False#False#False#False#False
+87#Foglio ricomposto#Sul foglio c'è scritto: 'I nostri pregi e i nostri difetti sono inscindibili, proprio come la forza e la materia. Quando si separano, l'uomo non è più' -Nikola Tesla#False#False#False#False#False
+88#Letto#Non ha il materasso, ma è la rete del mio letto#False#False#False#False#False
+89#Comodino#Lo riconosco a stento, è il mio comodino, o quello che ne è rimasto#False#False#False#False#False
+90#Scrivania#Non vi è nulla sopra, ma almeno questa è la mia scrivania#False#False#False#False#False
+91#Televisione#Il televisore visualizza solo statica al momento, ma alla base c'è scritto il motto del manufattore: 'Da persone, per Persone'#False#False#False#False#False
+92#Telecomando#Serve per cambiare canale sulla TV#False#True#False#False#False
+93#Sveglia digitale#Segna le ore 23:59#False#False#False#False#False
+94#Mosaico#Il mosaico sul soffitto non mostra alcuna immagine riconoscibile#False#False#False#False#False
+95#Piastra 1#È una piastra identificata con il numero 1#False#False#False#True#False
+96#Piastra 2#È una piastra identificata con il numero 2#False#False#False#True#False
+97#Piastra 3#È una piastra identificata con il numero 3#False#False#False#True#False
+98#Piastra 4#È una piastra identificata con il numero 4#False#False#False#True#False
+99#Piastra 5#È una piastra identificata con il numero 5#False#False#False#True#False
+100#Piastra 6#È una piastra identificata con il numero 6#False#False#False#True#False
+101#Piano cottura#Sul questo piano cottura c'è solo un accendino#False#False#False#False#False
+102#Accendino#È un clipper#False#True#False#False#False
+103#Forno#Questo forno è acceso a 200 gradi centigradi#False#False#False#False#False
+104#Lavastoviglie#A questa lavastoviglie manca 5 ore e 30 minuti alla fine del lavaggio#False#False#False#False#False
+105#Lavapiatti#Non ci sono piatti da pulire#False#False#False#False#False
+106#Frigorifero#Il frigo è ancora vuoto#False#False#False#False#False
+107#Mobile in legno#Questo mobile ha 2 cassetti, chissà cosa contengono#True#False#False#False#False
+108#Primo cassetto#Forchette... utili#True#False#False#False#False
+109#Secondo cassetto#Cucchiai...utilissimi#True#False#False#False#False
+110#Quadro Autunno#Questo quadro mostra un paesaggio autunnale senza persone#False#False#False#False#False
+111#Quadro Inverno#Questo quadro mostra una coppia che si tengono le mani sotto un abete#False#False#False#False#False
+112#Quadro Estate#Questo quadro mostra 8 persone in una spiaggia#False#False#False#False#False
+113#Quadro Primavera#Questo quadro mostra una picnic tra 5 persone#False#False#False#False#False
+114#Quadro 1962#È un quadro del 1962, il colore primario è blu#False#False#False#False#False
+115#Quadro 1946#È un quadro del 1946, il colore primario è giallo#False#False#False#False#False
+116#Quadro 1914#È un quadro del 1914, il colore primario è rosso#False#False#False#False#False
+117#Quadro 1789#È un quadro del 1989, il colore primario è bianco#False#False#False#False#False
+118#Quadro 1939#È un quadro del 1939, il colore primario è nero#False#False#False#False#False
+119#Quadro 2001#È un quadro del 2001, il colore primario è arancione#False#False#False#False#False
+120#Libreria destra#È una vecchia libreria grande con un solo cassetto, situata sulla destra della stanza#True#False#False#False#False
+121#Cassetto a destra#Questo cassetto della libreria destra è bloccato#False#False#False#False#False
+122#Prima nota seconda parte#Sulla nota c'è scritto: 'Trattenendo'#False#False#False#False#False
+123#Libreria centrale#È una vecchia libreria grande con un solo cassetto, situata al centro della stanza#True#False#False#False#False
+124#Cassetto al centro#Questo cassetto della libreria centrale è bloccato#true#False#False#False#False
+125#Seconda nota seconda parte#Sulla nota c'è scritto: 'il'#False#False#False#False#False
+126#Libreria sinistra#È una vecchia libreria grande con un solo cassetto  che occupa quasi tutto il muro situata sulla sinistra della stanza#True#False#False#False#False
+127#Cassetto a sinistra#Questo cassetto della libreria è bloccato#False#False#False#False#False
+128#Terza nota seconda parte#Sulla nota c'è scritto: 'respiro'#False#False#False#False#False
+129#Foglio rovinato#Sul foglio c'è scritto: 'Saggio storico/filosofico ********** è importante conoscere la storia ********** l'ordine cronologico degli eventi più importanti ********** ci ricorda sempre di ciò che l'uomo è in grado di fare guidato dalla sua brama di potere'#False#False#False#False#False
+130#Torcia#Che cosa ci fa una torcia qui?#False#True#False#False#False
+131#Proiettore#Per il momento il proiettore non mostra nulla, chiede prima di effettuare l'accesso con un Username e Password#False#False#False#False#False
+132#Portachiavi a muro#Non c'è nulla appeso al portachiavi#False#False#False#False#False
+133#Paio di scarpe#Non c'è nessun paio di scarpe, ma è la loro impronta è impressa sullo zerbino ormai impolverato#False#False#False#False#False
+134#Foglio rosso#Sul foglio c'è scritto solo: 'R=P 6'#False#False#False#False#False
+135#Foglio blu#Sul foglio c'è scritto solo: 'B=P 3'#False#False#False#False#False
+136#Foglio nero#Sul foglio c'è scritto solo: 'N=P 1'#False#False#False#False#False
+137#Foglio bianco#Sul foglio c'è scritto solo: 'B=P 4'#False#False#False#False#False
+138#Foglio arancione#Sul foglio c'è scritto solo: 'A=P 2'#False#False#False#False#False
+139#Foglio giallo#Sul foglio c'è scritto solo: 'G=P 5'#False#False#False#False#False
+140#Porta cantina#Questa porta dovrebbe condurre alla cantina#False#False#False#False#False
+141#Scrivania#È identica alla scrivania nella mia stanza, ma ora ci sono una Sveglia, una Lampada, un Foglio e una Penna#False#False#False#False#False
+142#Lampada#È la stessa, ha anche la lampadina quasi scarica#False#False#False#False#False
+143#Foglio#Sul foglio c'è scritto: ' ********** Non penso di potercela fare questa volta ********** sto pensando troppo ********** _ _ _ _ _ _ _ '#False#False#False#False#False
+144#Penna#È una penna dello stesso colore della frase scritta sul foglio#False#True#False#False#False 
+145#Televisione#Sul televisore viene mostrata la frase 'Accetta la tua paura, comprendi la tua ignoranza, solo allora lo troverai, lui ti darà la libertà'#False#False#False#False#False
+146#Sveglia digitale#Segna le ore 23:59#False#False#False#False#False
+147#Imballaggio 2203#Questo pacco è identificato con il numero 2203, chissà cosa conterrà#True#False#False#False#False
+148#Computer rotto#È un computer chiaramente rotto... non posso ripararlo#False#False#False#False#False
+149#Imballaggio 1306#Questo pacco è identificato con il numero 1306, chissà cosa conterrà#True#False#False#False#False
+150#Avviso di sfratto#È una lettera in cui si avvisa che sarò sfrattato dalla mia casa?#False#False#False#False#False
+151#Imballaggio 1010#Questo pacco è identificato con il numero 1010, chissà cosa conterrà#True#False#False#False#False
+152#Avviso di sequestro#È una lettera in cui si comunica che la mia macchina sarà sequestrata#False#False#False#False#False
+153#Imballaggio 3008#Questo pacco è identificato con il numero 3008, chissà cosa conterrà#True#False#False#False#False
+154#Lettera di licenziamento#È una lettera in cui l'azienda mi comunica che sono stato licenziato#False#False#False#False#False
+155#Imballaggio 1906#Questo pacco è identificato con il numero 1906, chissà cosa conterrà#True#False#False#False#False
+156#Foto bruciata#È una foto bruciata, o quel che ne rimane#False#False#False#False#False
+157#Barile infiammato#È un barile con vestiti incendiati dentro; produce una luce abbastanza forte da illuminare quasi tutta la stanza#False#False#False#False#False
+158#Secchio#È un secchio vuoto#False#True#False#False#False
+159#Orologio 'A'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+160#Orologio 'B'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+161#Orologio 'C'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+162#Orologio 'D'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+163#Orologio 'E'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+164#Orologio 'F'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+165#Orologio 'D'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+166#Orologio 'H'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+167#Orologio 'I'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+168#Orologio 'L'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+169#Orologio 'M'#Quest'orologio indica le ore 12 a.m.#False#False#False#False#False
+170#Clessidra#È una grande clessidra, ma la quantità di sabbia al suo interno non sembra cambiare#False#False#False#False#False
+171#Cassa#È una cassa abbastanza piccola, non sembra avere un lucchetto#True#False#False#False#False
+172#Chiave cassa di sicurezza#Su questa chiave e attaccata una etichetta con scritto sopra: 'Cassa di sicurezza'#False#True#False#False#False
+173#Cassa impolverata#È una vecchia cassa, ricoperta di polvere#True#False#False#False#False
+174#Vecchio giocattolo#È un vecchio giocattolo, ma le pile al suo interno sembrano cariche#False#False#False#False#False
+175#Pile cariche#Pile di un giocattolo vecchio, sembrano cariche#False#False#False#False#False
+176#Cassa di sicurezza#È una cassa bloccata da un lucchetto, serve una chiave#False#False#False#False#False
+177#Visore notturno#Un visore notturno, non ricordo di averne mai comprato uno. Sembra carico#False#True#False#False#False
+178#Sveglia digitale#Segna le ore 23:59#False#False#False#False#False
+179#Frigorifero#È un frigorifero, ma è ancora vuoto#True#False#False#False#False
+180#Mobile#Poichè è sottosopra, posso solo accedere a un paio di cassetti del mobile#True#False#False#False#False
+181#Primo cassetto#Nel cassetto c'è solo una nota#True#False#False#False#False
+182#Nota#Sulla nota c'è scritto ' ********** lascia che altre persone ti illuminino la via ********** '#False#False#False#False#False
+183#Secondo cassetto#Nel cassetto ci sono vari strumenti, ma l'unico che riuscirei a prendere è un cacciavite#True#False#False#False#False
+184#Cacciavite#È un cacciavite a croce#False#True#False#False#False
+185#Lampadario#È acceso, quindi è difficile vedere da vicino, ma lo scompartimento in cui è avvitata la lampadina è avvitata al resto del lampadario#False#False#False#False#False
+186#Lampadina#È una lampadina funzionante#False#True#False#False#False
+187#Manichino con meccanismo#Questo manichino, a differenza degli altri, ha un meccanismo al suo interno che sembra richiedere l'inserimento di un oggetto#False#False#False#False#False
+188#Radio#La radio produce solo statica al momento#False#False#False#False#False
+189#Telefono#Il telefono produce solo statica al momento#False#False#False#False#False
+190#Meccanismo#Su questo meccanismo sono visibili solo 3 luci spente#False#False#False#False#False
+191#Porta scale per ???#Dove condurrà questa porta?#False#False#False#False#False
+192#Telescopio#Tramite il telescopio riesco a vedere la costellazione di Orione#False#False#False#False#False
+193#???#La forma è di una persona, ma non riesco a vedere la sua faccia. Si sta avvicinando lentamente#False#False#False#False#False

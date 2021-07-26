@@ -1,0 +1,144 @@
+2021-07-16 17:48:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 17:48:13 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 17:48:13 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 17:48:13 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 17:48:13 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 17:48:13 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 17:59:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 17:59:44 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 17:59:44 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 17:59:44 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 17:59:44 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 17:59:44 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 18:16:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 18:16:55 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 18:16:55 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 18:16:55 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 18:16:55 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 18:16:55 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 18:30:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 18:30:33 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 18:30:33 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 18:30:33 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 18:30:33 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 18:30:33 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 18:41:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 18:41:00 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 18:41:00 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 18:41:00 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 18:41:00 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 18:41:00 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 18:45:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 18:45:03 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 18:45:03 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 18:45:03 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 18:45:03 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 18:45:03 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 19:57:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-193]
+2021-07-16 19:57:04 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-193]
+2021-07-16 19:57:04 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-193]
+2021-07-16 19:57:04 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-193]
+2021-07-16 19:57:04 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-193]
+2021-07-16 19:57:04 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-193]
+2021-07-16 19:57:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-193]
+2021-07-16 19:57:44 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-193]
+2021-07-16 19:57:44 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-193]
+2021-07-16 19:57:44 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-193]
+2021-07-16 19:57:44 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-193]
+2021-07-16 19:57:44 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-193]

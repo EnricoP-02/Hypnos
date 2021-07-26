@@ -1,0 +1,36 @@
+2021-07-16 17:16:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 17:16:19 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 17:16:19 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 17:16:19 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 17:16:19 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 17:16:19 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]
+2021-07-16 17:18:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 1 [42102-200]
+2021-07-16 17:18:26 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 2 [42102-200]
+2021-07-16 17:18:26 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 3 [42102-200]
+2021-07-16 17:18:26 jdbc[6]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 6 [42102-200]
+2021-07-16 17:18:26 jdbc[7]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 5 [42102-200]
+2021-07-16 17:18:26 jdbc[8]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "HYPNOSDB" not found; SQL statement:
+SELECT * FROM hypnosDb WHERE artId = 4 [42102-200]

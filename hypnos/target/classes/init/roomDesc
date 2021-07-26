@@ -1,0 +1,40 @@
+0#1#Stanza da letto#È la mia stanza da letto#In questa stanza, come sempre, c'è il mio Letto, il Comodino, la Lampada, la Scrivania e la Sedia
+1#1#Corridoio#Nel corridoio c'è ancora l'armadio aperto, dovrei iniziare a fare il cambio stagionale#Nel corridoio c'è l'Armadio, il Quadro di Micheal, il Quadro invernale e la Mensola
+2#1#Soggiorno#È il soggiorno... sono solo in casa?#Nel soggiorno c'è la Televisione, il Tavolo e il Mobile 
+3#1#Ingresso casa#La porta nell'ingresso è chiusa, ma sembrano esserci un paio di scarpe in più identiche alle mie sullo zerbino#Nell'ingresso vedo che c'è lo Specchio, il Portachiavi a muro che appendemmo l'anno scorso e due paia di scarpe
+4#1#Studio#È lo studio di mio padre... ma dov'è lui?#Nello studio c'è la Scrivania con un paio di sedie, il Computer da cui lavora e il Divano
+5#1#Bagno#Il bagno necessita assolutamente di una pulita#Nel bagno c'è il WC, il Bidet, il Lavandino, la Vasca e lo Specchio con scompartimento
+6#1#Scale piano secondo/terra#Sono le scale che portano al secondo piano e al piano terra# 
+7#2#Stanza da letto#È la mia stanza da letto... di nuovo?#Nella stanza ora c'è il Letto, il Comodino, la mia Scrivania e sedia, su cui sta il mio Computer Portatile? Ricordo di averlo mandato in riparazione...
+8#2#Ingresso#È l'ingresso di casa... non ci sono già passato?#Nell'ingresso ora vedo solo il Portachiave a muro e un Paio di scarpe, dove è finito l'altro Paio?
+9#2#Studio#È lo studio di mio padre, ma è diverso... non capisco#Nello studio gli oggetti presenti ora sono: la Scrivania con sedie, il suo Computer spento, una piccola libreria e una Cassaforte?
+10#2#Cucina#In cucina la luce è accesa e l'acqua sta bollendo#Nella cucina c'è il Piano cottura, il nuovo Frigorifero con Freezer, il Mobile con anta di vetro che ruppi da piccolo, la Lavastoviglie e il Forno
+11#2#Stanza da pranzo#Non c'è nessuno nella stanza da pranzo, ma sul tavolo c'è una tazza di tè ancora calda#Nella stanza da pranzo c'è la Televisione, il Tavolo da pranzo e le sedie, il Divano e il Mobile di legno
+12#2# ? #Non ho mai visto questa stanza in casa... è abbandonata, rovinata#Vedo solo mobili invecchiati, gli unici oggetti ancora intatti sono un Mobile in legno rovinato, un Mobile in legno con anta di vetro rotta e il Lampadario sul soffitto
+13#2# ? #È una stanza piena di fogli sparsi per terra# La maggior parte dei fogli sono illeggibili, ma alcuni, anche se danneggiati, sono comprensibili, come questo Foglio Impolverato, questo Foglio Bruciacchiato, questo Foglio Corroso e questo Foglio Ricomposto
+14#2#Scale tetto#Queste scale dovrebbero portare al tetto scoperto, il punto più alto della casa# 
+15#0#Stanza da letto#La mia camera da letto?! Non ricordo di averene così tante#Questa volta nella stanza c'è il Letto, il Comodino, la Scrivania, una Televisione, un Telecomando e una Sveglia digitale
+16#0#Stanza Mosaico?#Che stanza strana, c'è un mosaico sul soffitto#Nella stanza c'è un Mosaico sul soffitto e delle piastre enumerate a terra: Piastra 1, Piastra 2, Piastra 3, Piastra 4, Piastra 5 e Piastra 6
+17#0#Cucina#Questa cucina è diversa dalla nostra, è molto più vecchia... mi ricorda degli anni '80#In questa cucina c'è un Piano cottura, un Forno, un Lavapiatti, una Lavastoviglie, un Frigorifero e un Mobile in legno
+18#0# ? #È una stanza piena di quadri... ma dove sono finito?#Nella stanza ci sono diversi quadri, ognuno identificato da un nome o numero: Autunno, Inverno, Estate, Primavera, 1962, 1946, 1914, 1789, 1939, 2001
+19#0#Biblioteca#Sembra una biblioteca molto vecchia#Le librerie al suo interno sono divise in una Libreria centrale, una Libreria destra e una Libreria sinistra, inoltre ci sono molti fogli rovinati a terra, ma uno sembra ancora leggibile
+20#0#Salotto con soffitto alto#In questo vecchio salotto non riesco a vedere molto bene il soffitto, sarà a causa della sua altezza#Nella stanza la maggior parte degli oggetti sembrano ormai inutilizzabili e pieni di polvere e ruggine, ma riesco a distingure la sagoma di un oggetto, sembra una Torcia impolverata
+21#0#Stanza proiettore#Strano, non c'è nulla in questa stanza... a parte un Proiettore#Non riesco a vedere nulla a parte il Proiettore sul soffitto
+22#0#Ingresso#È l'ingresso di casa, ma sembra abbandonato da decenni#L'unica cosa che riesco a distiguere nel muro è il portachiavi, anche se abbastanza danneggiato; in più su quello che un tempo era lo zerbino ci sono 2 impronte di un paio di scarpe, come se la polvere non si accumulasse su quei punti
+23#0# ? #Questa stanza è piena di fili, non sembrano avere un inizio né una fine, è molto difficile camminare#Attaccati a questi fili ci sono dei foglio di carta, ciascuno differenziato da un proprio colore: un Foglio rosso, un Foglio blu, un Foglio nero, un Foglio bianco, un Foglio arancione e un Foglio giallo
+24#0#Scale cantina#Queste scale portano alla cantina, meglio portarsi una fonte di luce# 
+25#-1#Stanza da letto#COME È POSSIBILE?! PASSO SEMPRE NELLE STESSE CAZZO DI STANZE, QUESTA NON È LA MIA STANZA DA LETTO!#Contiene meno oggetti rispetto alla mia vera stanza da letto, ora c'è solo una Scrivania, una Lampada, una Sveglia e un Televisore che mostra la stessa frase a intermittenza 
+26#-1#Studio#Questo non è lo studio che abbiamo a casa... cos'è questo posto?#Sembra tutto pronto per essere portato via da questo luogo... è tutto impacchettato in scatole di cartone con un numero sopra: Cartone 2203, Cartone 1306, Cartone 1010, Cartone 3008 e Cartone 1906
+27#-1#Stanza con barile?#Perchè c'è un barile IN FIAMME in cantina?!#Grazie alla luce emessa dalle fiamme riesco a vedere la maggior parte della stanza, purtroppo però sembra essere vuota, anche se i muri sembrano essere ricoperti di una pittura incolore, strano...
+28#-1#Taiga innevata#In questa stanza NEVICA?! Sono stanco...#Tutta la stanza è ricoperta dalla neve, ma riesco a intravedere un oggetto sporgere da un cumulo
+29#-1#Stanza orologi?#Questa stanza invece è piena di orologi... che significa?! Perchè mi sta succedendo tutto ciò?#Ogni orologio, identificato con una lettera dell'alfabeto, sembra segnare lo stesso orario: Orologio 'A', Orologio 'B', Orologio 'C', Orologio 'D', Orologio 'E', Orologio 'F', Orologio 'G', Orologio 'H', Orologio 'I', Orologio 'L', Orologio 'M'
+30#-1#Deserto#Giustamente, se una delle stanze precedenti era piena di neve, questa è piena di sabbia#L'unica cosa che riesco a vedere in questa stanza è una Clessidra, ma riesco a vedere una cassa sporgere da un cumulo di sabbia
+31#-1#Magazzino#Questo sembra essere un magazzino dismesso#Tra i vari oggetti presenti, i meno danneggiati sono una Cassa impolverata, una Cassa di sicurezza e una Sveglia
+32#-1#Cucina sottosopra?#Ma che diavolo?!#Essendo sul soffitto posso toccare solo una parte degli oggetti presenti, tra cui il Freezer, un Mobile e il Lampadario
+33#-1#Stanza manichini?#Questa stanza è piena di manichini, per niente inquietante...#I manichini sembrano essere tutti uguali, ma ad uno in particolare sembra diverso dagli altri 
+34#-1#∞#Questa stanza sembra essere finalmente normale, ma non ricordo di averla mai vista...#Sulla mensola c'è una Radio un Telefono e una Foto bruciata
+35#-1#Occhi?!#Perchè ci sono tutti questi occhi che mi guardano? Basta... non guardatemi... basta... smettetela di guardarmi!#NON VI VOGLIO GUARDARE! basta...
+36#-1#Specchi?!#Io? Ma che...è una stanza piena di specchi, non riesco a orientarmi#Sul pavimento sembra esserci un Meccanismo
+37#-1#Scale per ???#Dove portano queste scale? Ho paura# 
+38#-2#???#Non vedo nulla in questa stanza... la luce è troppo poca#Ma quella... è una persona?
+39#3#Tetto#Finalmente un po' di aria fresca, ricordo quante notti passate a guardare le stelle con ***********#L'unico oggetto sul tetto è un Telescopio
